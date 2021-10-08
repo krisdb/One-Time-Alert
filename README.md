@@ -15,10 +15,10 @@ dependencies {
 Example:
 
 ```java
-        OneTimeAlert.Toast(this, "toast_alert_1", "Hello, World");
+OneTimeAlert.Toast(this, "toast_alert_1", "Hello, World");
         
-        OneTimeAlert.Dialog(this, "toast_alert", "Hello, World");
+OneTimeAlert.Dialog(this, "toast_alert", "Hello, World");
 
-        OneTimeAlert.Snackbar(this, "toast_alert_3", "Hello, World");
+OneTimeAlert.Snackbar(this, "toast_alert_3", "Hello, World");
 
 ```
